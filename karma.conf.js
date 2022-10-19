@@ -3,6 +3,7 @@
 const Dotenv = require('dotenv-webpack');
 const path = require('path');
 
+// eslint-disable-next-line func-names
 module.exports = function (config) {
   config.set({
 
